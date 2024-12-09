@@ -1,7 +1,6 @@
-What Can I Do For You?
+// - What Can I Do For You?
 
-This Repository is my traces of what I studied.
+This branch contains the contents of my study of Python development.
+It is not enough, I would appreciate it if you would look at it positively.
 
-The content consist of engine(Unity, Unreal), server, database, etc.
-
-I hope you enjoy it
+Thank you for interest.
